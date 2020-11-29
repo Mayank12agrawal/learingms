@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "676687341800",
+    "firebase_url": "https://lmsflutter-44e49.firebaseio.com",
+    "project_id": "lmsflutter-44e49",
+    "storage_bucket": "lmsflutter-44e49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676687341800:android:6409c8fa3de4ffa314c15d",
+        "android_client_info": {
+          "package_name": "com.example.lms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676687341800-vq0ht6vg29aud9ntk14ouf3eqdssjrem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt1QPqJXE8e_h7QN0327yLnQk6RSpy-P4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676687341800-vq0ht6vg29aud9ntk14ouf3eqdssjrem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
